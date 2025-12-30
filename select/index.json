@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Feels Like You",
+  "base_artist": "Faime",
+  "createdAt": "2025-12-30T05:14:22.696388Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nothing Feels Like You",
+      "artist": "Little Mix",
+      "has_synced": false,
+      "path": "select/01_Nothing_Feels_Like_You_Little_Mix.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nothing Feels Like You",
+      "artist": "Little Mix",
+      "has_synced": true,
+      "path": "select/02_Nothing_Feels_Like_You_Little_Mix.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everyone Feels Like You",
+      "artist": "Owen",
+      "has_synced": true,
+      "path": "select/03_Everyone_Feels_Like_You_Owen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nothing Feels Like You",
+      "artist": "Distilled Harmony",
+      "has_synced": false,
+      "path": "select/04_Nothing_Feels_Like_You_Distilled_Harmony.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nothing Feels Like You Do",
+      "artist": "Distilled Harmony",
+      "has_synced": false,
+      "path": "select/05_Nothing_Feels_Like_You_Do_Distilled_Harmony.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Feels Like You",
+      "artist": "Faime",
+      "has_synced": true,
+      "path": "select/06_Feels_Like_You_Faime.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feels Like You",
+      "artist": "MOTi feat. Robert Falcon",
+      "has_synced": true,
+      "path": "select/07_Feels_Like_You_MOTi_feat._Robert_Falcon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Feels Like You",
+      "artist": "MOTi/Robert Falcon",
+      "has_synced": true,
+      "path": "select/08_Feels_Like_You_MOTi_Robert_Falcon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Feels Like You - Extended Mix",
+      "artist": "MOTi feat. Robert Falcon",
+      "has_synced": true,
+      "path": "select/09_Feels_Like_You_-_Extended_Mix_MOTi_feat._Robert_Falcon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Feels Like You - Extended Mix",
+      "artist": "MOTi/Robert Falcon",
+      "has_synced": true,
+      "path": "select/10_Feels_Like_You_-_Extended_Mix_MOTi_Robert_Falcon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nothing Feels Like You",
+      "artist": "Little Mix",
+      "has_synced": true,
+      "path": "select/11_Nothing_Feels_Like_You_Little_Mix.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Feels Like You",
+      "artist": "Splashh",
+      "has_synced": true,
+      "path": "select/12_Feels_Like_You_Splashh.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Feels Like You",
+      "artist": "Adventure Club",
+      "has_synced": false,
+      "path": "select/13_Feels_Like_You_Adventure_Club.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Feels Like You Died",
+      "artist": "Bellah Mae",
+      "has_synced": true,
+      "path": "select/14_Feels_Like_You_Died_Bellah_Mae.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feels Like You",
+      "artist": "Faime",
+      "has_synced": false,
+      "path": "select/pl_01_Feels_Like_You_Faime.txt"
+    }
+  ]
+}
